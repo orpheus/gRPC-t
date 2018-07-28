@@ -4,7 +4,7 @@ import (
 	"flag"
 	"google.golang.org/grpc"
 	"log"
-	"github.com/always-sunny/gRPC-t/proto"
+	"github.com/discofiend/gRPC-t/proto"
 	"time"
 	"golang.org/x/net/context"
 )

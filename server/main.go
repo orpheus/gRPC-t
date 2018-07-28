@@ -4,9 +4,9 @@ import (
 	"net"
 	"log"
 	"google.golang.org/grpc"
-	"github.com/always-sunny/gRPC-t/proto"
+	"github.com/discofiend/gRPC-t/proto"
 	"golang.org/x/net/context"
-	"github.com/always-sunny/gRPC-t/server/blockchain"
+	"github.com/discofiend/gRPC-t/server/blockchain"
 )
 
 func main() {
